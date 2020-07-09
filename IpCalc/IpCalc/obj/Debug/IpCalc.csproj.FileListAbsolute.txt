@@ -1,0 +1,10 @@
+D:\Deckstop\IpCalc\IpCalc\bin\Debug\IpCalc.exe.config
+D:\Deckstop\IpCalc\IpCalc\bin\Debug\IpCalc.exe
+D:\Deckstop\IpCalc\IpCalc\bin\Debug\IpCalc.pdb
+D:\Deckstop\IpCalc\IpCalc\obj\Debug\IpCalc.csprojAssemblyReference.cache
+D:\Deckstop\IpCalc\IpCalc\obj\Debug\IpCalc.Properties.Resources.resources
+D:\Deckstop\IpCalc\IpCalc\obj\Debug\IpCalc.csproj.GenerateResource.cache
+D:\Deckstop\IpCalc\IpCalc\obj\Debug\IpCalc.csproj.CoreCompileInputs.cache
+D:\Deckstop\IpCalc\IpCalc\obj\Debug\IpCalc.exe
+D:\Deckstop\IpCalc\IpCalc\obj\Debug\IpCalc.pdb
+D:\Deckstop\IpCalc\IpCalc\obj\Debug\IpCalc.Form.resources
