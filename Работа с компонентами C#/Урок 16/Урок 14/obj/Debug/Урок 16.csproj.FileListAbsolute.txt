@@ -1,0 +1,10 @@
+C:\Projects\Уроки\Урок 16\Урок 14\bin\Debug\Урок 14.exe.config
+C:\Projects\Уроки\Урок 16\Урок 14\bin\Debug\Урок 14.exe
+C:\Projects\Уроки\Урок 16\Урок 14\bin\Debug\Урок 14.pdb
+C:\Projects\Уроки\Урок 16\Урок 14\obj\Debug\Урок 16.csprojAssemblyReference.cache
+C:\Projects\Уроки\Урок 16\Урок 14\obj\Debug\Урок_14.Form1.resources
+C:\Projects\Уроки\Урок 16\Урок 14\obj\Debug\Урок_14.Properties.Resources.resources
+C:\Projects\Уроки\Урок 16\Урок 14\obj\Debug\Урок 16.csproj.GenerateResource.cache
+C:\Projects\Уроки\Урок 16\Урок 14\obj\Debug\Урок 16.csproj.CoreCompileInputs.cache
+C:\Projects\Уроки\Урок 16\Урок 14\obj\Debug\Урок 14.exe
+C:\Projects\Уроки\Урок 16\Урок 14\obj\Debug\Урок 14.pdb
