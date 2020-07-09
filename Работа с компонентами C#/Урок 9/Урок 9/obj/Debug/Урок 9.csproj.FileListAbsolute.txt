@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\Урок 9\Урок 9\bin\Debug\Урок 9.exe.config
+C:\Users\Пользователь\source\repos\Урок 9\Урок 9\bin\Debug\Урок 9.exe
+C:\Users\Пользователь\source\repos\Урок 9\Урок 9\bin\Debug\Урок 9.pdb
+C:\Users\Пользователь\source\repos\Урок 9\Урок 9\obj\Debug\Урок 9.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Урок 9\Урок 9\obj\Debug\Урок_9.Form1.resources
+C:\Users\Пользователь\source\repos\Урок 9\Урок 9\obj\Debug\Урок_9.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Урок 9\Урок 9\obj\Debug\Урок 9.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Урок 9\Урок 9\obj\Debug\Урок 9.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Урок 9\Урок 9\obj\Debug\Урок 9.exe
+C:\Users\Пользователь\source\repos\Урок 9\Урок 9\obj\Debug\Урок 9.pdb
