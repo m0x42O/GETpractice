@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\Урок 6\Урок 6\bin\Debug\Урок 6.exe.config
+C:\Users\Пользователь\source\repos\Урок 6\Урок 6\bin\Debug\Урок 6.exe
+C:\Users\Пользователь\source\repos\Урок 6\Урок 6\bin\Debug\Урок 6.pdb
+C:\Users\Пользователь\source\repos\Урок 6\Урок 6\obj\Debug\Урок 6.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Урок 6\Урок 6\obj\Debug\Урок_6.Form1.resources
+C:\Users\Пользователь\source\repos\Урок 6\Урок 6\obj\Debug\Урок_6.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Урок 6\Урок 6\obj\Debug\Урок 6.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Урок 6\Урок 6\obj\Debug\Урок 6.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Урок 6\Урок 6\obj\Debug\Урок 6.exe
+C:\Users\Пользователь\source\repos\Урок 6\Урок 6\obj\Debug\Урок 6.pdb
