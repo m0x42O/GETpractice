@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\Урок 32\Урок 32\bin\Debug\Урок 32.exe.config
+C:\Users\Пользователь\source\repos\Урок 32\Урок 32\bin\Debug\Урок 32.exe
+C:\Users\Пользователь\source\repos\Урок 32\Урок 32\bin\Debug\Урок 32.pdb
+C:\Users\Пользователь\source\repos\Урок 32\Урок 32\obj\Debug\Урок 32.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Урок 32\Урок 32\obj\Debug\Урок_32.Form1.resources
+C:\Users\Пользователь\source\repos\Урок 32\Урок 32\obj\Debug\Урок_32.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Урок 32\Урок 32\obj\Debug\Урок 32.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Урок 32\Урок 32\obj\Debug\Урок 32.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Урок 32\Урок 32\obj\Debug\Урок 32.exe
+C:\Users\Пользователь\source\repos\Урок 32\Урок 32\obj\Debug\Урок 32.pdb
