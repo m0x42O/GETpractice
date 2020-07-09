@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\Урок 8\Урок 8\bin\Debug\Урок 8.exe.config
+C:\Users\Пользователь\source\repos\Урок 8\Урок 8\bin\Debug\Урок 8.exe
+C:\Users\Пользователь\source\repos\Урок 8\Урок 8\bin\Debug\Урок 8.pdb
+C:\Users\Пользователь\source\repos\Урок 8\Урок 8\obj\Debug\Урок 8.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Урок 8\Урок 8\obj\Debug\Урок_8.Form1.resources
+C:\Users\Пользователь\source\repos\Урок 8\Урок 8\obj\Debug\Урок_8.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Урок 8\Урок 8\obj\Debug\Урок 8.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Урок 8\Урок 8\obj\Debug\Урок 8.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Урок 8\Урок 8\obj\Debug\Урок 8.exe
+C:\Users\Пользователь\source\repos\Урок 8\Урок 8\obj\Debug\Урок 8.pdb
