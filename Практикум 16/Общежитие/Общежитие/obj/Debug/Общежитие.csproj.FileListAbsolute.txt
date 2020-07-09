@@ -1,0 +1,211 @@
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\bin\Debug\Общежитие.mdb
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\bin\Debug\Общежитие.exe.config
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\bin\Debug\Общежитие.exe
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\bin\Debug\Общежитие.pdb
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.Form1.resources
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.exe
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.pdb
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.roomsForm.resources
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.lgotaForm.resources
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.studentForm.resources
+C:\Users\Пользователь\source\repos\Общежитие\Общежитие\obj\Debug\Общежитие.RasselenieForm.resources
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Общежитие.mdb
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Общежитие.exe.config
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Общежитие.exe
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Общежитие.pdb
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\EnvDTE.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\stdole.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\Microsoft.MSXML.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.csprojAssemblyReference.cache
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.Form1.resources
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.lgotaForm.resources
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.Otchet.resources
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.Properties.Resources.resources
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.RasselenieForm.resources
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.roomsForm.resources
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.studentForm.resources
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.ZaprosForm.resources
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.GenerateResource.cache
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.CoreCompileInputs.cache
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.CopyComplete
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.exe
+D:\Deckstop\Practice-master\Практикум_16\Общежитие\Общежитие\obj\Debug\Общежитие.pdb
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Общежитие.mdb
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Общежитие.exe.config
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Общежитие.exe
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Общежитие.pdb
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\EnvDTE.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\stdole.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\Microsoft.MSXML.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.csprojAssemblyReference.cache
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.Form1.resources
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.lgotaForm.resources
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.Otchet.resources
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.Properties.Resources.resources
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.RasselenieForm.resources
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.roomsForm.resources
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.studentForm.resources
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.ZaprosForm.resources
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.GenerateResource.cache
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.CoreCompileInputs.cache
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.CopyComplete
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.exe
+D:\Deckstop\practice\Практикум 16\Общежитие\Общежитие\obj\Debug\Общежитие.pdb

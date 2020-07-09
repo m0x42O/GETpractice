@@ -1,0 +1,10 @@
+D:\Deckstop\practice\Практикум 6\ex4_2\ex4_2\bin\Debug\ex4_2.exe.config
+D:\Deckstop\practice\Практикум 6\ex4_2\ex4_2\bin\Debug\ex4_2.exe
+D:\Deckstop\practice\Практикум 6\ex4_2\ex4_2\bin\Debug\ex4_2.pdb
+D:\Deckstop\practice\Практикум 6\ex4_2\ex4_2\obj\Debug\ex4_2.csprojAssemblyReference.cache
+D:\Deckstop\practice\Практикум 6\ex4_2\ex4_2\obj\Debug\ex4_2.Form1.resources
+D:\Deckstop\practice\Практикум 6\ex4_2\ex4_2\obj\Debug\ex4_2.Properties.Resources.resources
+D:\Deckstop\practice\Практикум 6\ex4_2\ex4_2\obj\Debug\ex4_2.csproj.GenerateResource.cache
+D:\Deckstop\practice\Практикум 6\ex4_2\ex4_2\obj\Debug\ex4_2.csproj.CoreCompileInputs.cache
+D:\Deckstop\practice\Практикум 6\ex4_2\ex4_2\obj\Debug\ex4_2.exe
+D:\Deckstop\practice\Практикум 6\ex4_2\ex4_2\obj\Debug\ex4_2.pdb

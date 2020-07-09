@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Contact>
+  <Persons>
+    <Person>
+      <LastName>Попов</LastName>
+      <Phone>89998887766</Phone>
+      <Adress>ул. Василисина, 8Б</Adress>
+    </Person>
+    <Person>
+      <LastName>Кузнецов</LastName>
+      <Phone>89988877666</Phone>
+      <Adress>ул. Грибоедова, 11</Adress>
+    </Person>
+    <Person>
+      <LastName>Ковалева</LastName>
+      <Phone>89157550577</Phone>
+      <Adress>ул. Ленина, 33</Adress>
+    </Person>
+  </Persons>
+  <Friends>
+    <Friend>
+      <LastName>Кононов</LastName>
+      <Phone>89178796432</Phone>
+      <Adress>ул. Б. Московская, 88</Adress>
+      <Birthday>12.07.1995</Birthday>
+    </Friend>
+    <Friend>
+      <LastName>Мичурин</LastName>
+      <Phone>89047891465</Phone>
+      <Adress>ул. Спальная, 17</Adress>
+      <Birthday>26.01.1979</Birthday>
+    </Friend>
+    <Friend>
+      <LastName>Навальный</LastName>
+      <Phone>891001989100</Phone>
+      <Adress>ул. Гастелло, 9</Adress>
+      <Birthday>31.08.1980</Birthday>
+    </Friend>
+  </Friends>
+  <Organizations>
+    <Organization>
+      <Name>ООО "Тейк Май Энерджи"</Name>
+      <Phone>88005553535</Phone>
+      <Adress>ул. Пушкина, 66</Adress>
+      <Fax>88005553535</Fax>
+      <ContactPerson>Бубнов</ContactPerson>
+    </Organization>
+  </Organizations>
+</Contact>

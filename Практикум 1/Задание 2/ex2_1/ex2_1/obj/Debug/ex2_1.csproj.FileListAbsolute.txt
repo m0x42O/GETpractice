@@ -1,0 +1,13 @@
+D:\Deckstop\практика\1st week\ex2_1\ex2_1\bin\Debug\ex2_1.exe.config
+D:\Deckstop\практика\1st week\ex2_1\ex2_1\bin\Debug\ex2_1.exe
+D:\Deckstop\практика\1st week\ex2_1\ex2_1\bin\Debug\ex2_1.pdb
+D:\Deckstop\практика\1st week\ex2_1\ex2_1\obj\Debug\ex2_1.csproj.CoreCompileInputs.cache
+D:\Deckstop\практика\1st week\ex2_1\ex2_1\obj\Debug\ex2_1.exe
+D:\Deckstop\практика\1st week\ex2_1\ex2_1\obj\Debug\ex2_1.pdb
+D:\Deckstop\practice\Практикум 1\ex2_1\ex2_1\bin\Debug\ex2_1.exe.config
+D:\Deckstop\practice\Практикум 1\ex2_1\ex2_1\bin\Debug\ex2_1.exe
+D:\Deckstop\practice\Практикум 1\ex2_1\ex2_1\bin\Debug\ex2_1.pdb
+D:\Deckstop\practice\Практикум 1\ex2_1\ex2_1\obj\Debug\ex2_1.csprojAssemblyReference.cache
+D:\Deckstop\practice\Практикум 1\ex2_1\ex2_1\obj\Debug\ex2_1.csproj.CoreCompileInputs.cache
+D:\Deckstop\practice\Практикум 1\ex2_1\ex2_1\obj\Debug\ex2_1.exe
+D:\Deckstop\practice\Практикум 1\ex2_1\ex2_1\obj\Debug\ex2_1.pdb

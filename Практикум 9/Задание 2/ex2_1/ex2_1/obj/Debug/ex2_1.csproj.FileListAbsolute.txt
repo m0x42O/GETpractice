@@ -1,0 +1,7 @@
+D:\Deckstop\practice\Практикум 9\ex2_1\ex2_1\bin\Debug\ex2_1.exe.config
+D:\Deckstop\practice\Практикум 9\ex2_1\ex2_1\bin\Debug\ex2_1.exe
+D:\Deckstop\practice\Практикум 9\ex2_1\ex2_1\bin\Debug\ex2_1.pdb
+D:\Deckstop\practice\Практикум 9\ex2_1\ex2_1\obj\Debug\ex2_1.csprojAssemblyReference.cache
+D:\Deckstop\practice\Практикум 9\ex2_1\ex2_1\obj\Debug\ex2_1.csproj.CoreCompileInputs.cache
+D:\Deckstop\practice\Практикум 9\ex2_1\ex2_1\obj\Debug\ex2_1.exe
+D:\Deckstop\practice\Практикум 9\ex2_1\ex2_1\obj\Debug\ex2_1.pdb

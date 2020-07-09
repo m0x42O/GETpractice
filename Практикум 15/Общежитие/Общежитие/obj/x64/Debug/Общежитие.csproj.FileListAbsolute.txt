@@ -1,0 +1,32 @@
+C:\Projects\Практикум_15\Общежитие\Общежитие\bin\x64\Debug\Общежитие.mdb
+C:\Projects\Практикум_15\Общежитие\Общежитие\bin\x64\Debug\Общежитие.exe.config
+C:\Projects\Практикум_15\Общежитие\Общежитие\bin\x64\Debug\Общежитие.exe
+C:\Projects\Практикум_15\Общежитие\Общежитие\bin\x64\Debug\Общежитие.pdb
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.csprojAssemblyReference.cache
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.Form1.resources
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.lgotaForm.resources
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.Properties.Resources.resources
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.RasselenieForm.resources
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.roomsForm.resources
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.studentForm.resources
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.ZaprosForm.resources
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.csproj.GenerateResource.cache
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.csproj.CoreCompileInputs.cache
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.exe
+C:\Projects\Практикум_15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.pdb
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\bin\x64\Debug\Общежитие.mdb
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\bin\x64\Debug\Общежитие.exe.config
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\bin\x64\Debug\Общежитие.exe
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\bin\x64\Debug\Общежитие.pdb
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.csprojAssemblyReference.cache
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.Form1.resources
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.lgotaForm.resources
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.Properties.Resources.resources
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.RasselenieForm.resources
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.roomsForm.resources
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.studentForm.resources
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.ZaprosForm.resources
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.csproj.GenerateResource.cache
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.csproj.CoreCompileInputs.cache
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.exe
+D:\Deckstop\practice\Практикум 15\Общежитие\Общежитие\obj\x64\Debug\Общежитие.pdb
