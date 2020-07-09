@@ -693,7 +693,7 @@
                     <Style>
                       <FontFamily>Times New Roman</FontFamily>
                       <FontSize>20pt</FontSize>
-                      <Color>Blue</Color>
+                      <Color>White</Color>
                     </Style>
                   </TextRun>
                 </TextRuns>
@@ -716,21 +716,7 @@
               <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
-          <Image Name="Image1">
-            <Source>Embedded</Source>
-            <Value>foto1</Value>
-            <Sizing>FitProportional</Sizing>
-            <Top>0.23495cm</Top>
-            <Left>0.26458cm</Left>
-            <Height>1.57937cm</Height>
-            <Width>2.61125cm</Width>
-            <ZIndex>2</ZIndex>
-            <Style>
-              <Border>
-                <Style>None</Style>
-              </Border>
-            </Style>
-          </Image>
+      
           <Chart Name="Chart3">
             <ChartCategoryHierarchy>
               <ChartMembers>
@@ -1027,7 +1013,7 @@
                   <Enabled>true</Enabled>
                 </ChartThreeDProperties>
                 <Style>
-                  <BackgroundColor>#00ffffff</BackgroundColor>
+                  <BackgroundColor>black</BackgroundColor>
                   <BackgroundGradientType>None</BackgroundGradientType>
                 </Style>
               </ChartArea>
@@ -1057,9 +1043,9 @@
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontSize>9pt</FontSize>
                   <FontWeight>Normal</FontWeight>
-                  <TextAlign>Left</TextAlign>
+                  <TextAlign>center</TextAlign>
                   <VerticalAlign>Top</VerticalAlign>
-                  <Color>#a6a6a6</Color>
+                  <Color>white</Color>
                 </Style>
                 <Position>TopLeft</Position>
               </ChartTitle>
@@ -1067,9 +1053,9 @@
             <Palette>Pacific</Palette>
             <ChartBorderSkin>
               <Style>
-                <BackgroundColor>Gray</BackgroundColor>
+                <BackgroundColor>Black</BackgroundColor>
                 <BackgroundGradientType>None</BackgroundGradientType>
-                <Color>White</Color>
+                <Color>white</Color>
               </Style>
             </ChartBorderSkin>
             <ChartNoDataMessage Name="NoDataMessage">
@@ -1092,7 +1078,7 @@
                 <Color>LightGrey</Color>
                 <Style>None</Style>
               </Border>
-              <BackgroundColor>White</BackgroundColor>
+              <BackgroundColor>black</BackgroundColor>
               <BackgroundGradientType>None</BackgroundGradientType>
             </Style>
           </Chart>

@@ -222,8 +222,5 @@ namespace ex1_2
             this.FilteredContacts = FindByLastName(searchLM.Text, this.Contacts);
             FillDGV();
         }
-
-        
     }
-
 }

@@ -5,3 +5,10 @@ D:\Deckstop\practice\Практикум 12\ex1_1\ex1_1\obj\Debug\ex1_1.csprojAss
 D:\Deckstop\practice\Практикум 12\ex1_1\ex1_1\obj\Debug\ex1_1.csproj.CoreCompileInputs.cache
 D:\Deckstop\practice\Практикум 12\ex1_1\ex1_1\obj\Debug\ex1_1.exe
 D:\Deckstop\practice\Практикум 12\ex1_1\ex1_1\obj\Debug\ex1_1.pdb
+D:\Deckstop\GETpractice\Практикум 12\Задание 1\ex1_1\ex1_1\bin\Debug\ex1_1.exe.config
+D:\Deckstop\GETpractice\Практикум 12\Задание 1\ex1_1\ex1_1\bin\Debug\ex1_1.exe
+D:\Deckstop\GETpractice\Практикум 12\Задание 1\ex1_1\ex1_1\bin\Debug\ex1_1.pdb
+D:\Deckstop\GETpractice\Практикум 12\Задание 1\ex1_1\ex1_1\obj\Debug\ex1_1.csprojAssemblyReference.cache
+D:\Deckstop\GETpractice\Практикум 12\Задание 1\ex1_1\ex1_1\obj\Debug\ex1_1.csproj.CoreCompileInputs.cache
+D:\Deckstop\GETpractice\Практикум 12\Задание 1\ex1_1\ex1_1\obj\Debug\ex1_1.exe
+D:\Deckstop\GETpractice\Практикум 12\Задание 1\ex1_1\ex1_1\obj\Debug\ex1_1.pdb

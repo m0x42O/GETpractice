@@ -28,3 +28,18 @@ D:\Deckstop\Practice-master\Практикум_14\Общежитие\Общеж�
 D:\Deckstop\Practice-master\Практикум_14\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.CoreCompileInputs.cache
 D:\Deckstop\Practice-master\Практикум_14\Общежитие\Общежитие\obj\Debug\Общежитие.exe
 D:\Deckstop\Practice-master\Практикум_14\Общежитие\Общежитие\obj\Debug\Общежитие.pdb
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\bin\Debug\Общежитие.mdb
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\bin\Debug\Общежитие.exe.config
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\bin\Debug\Общежитие.exe
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\bin\Debug\Общежитие.pdb
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.csprojAssemblyReference.cache
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.Form1.resources
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.lgotaForm.resources
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.Properties.Resources.resources
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.RasselenieForm.resources
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.roomsForm.resources
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.studentForm.resources
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.GenerateResource.cache
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.csproj.CoreCompileInputs.cache
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.exe
+D:\Deckstop\GETpractice\Практикум 14\Общежитие\Общежитие\obj\Debug\Общежитие.pdb

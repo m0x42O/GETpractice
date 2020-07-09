@@ -51,16 +51,17 @@
             // reportViewer1
             // 
             this.reportViewer1.BackColor = System.Drawing.Color.Black;
+            this.reportViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.reportViewer1.Font = new System.Drawing.Font("Schadow BT", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.reportViewer1.ForeColor = System.Drawing.SystemColors.Window;
             reportDataSource1.Name = "DataSet1";
             reportDataSource1.Value = this.StudentsBindingSource;
             this.reportViewer1.LocalReport.DataSources.Add(reportDataSource1);
             this.reportViewer1.LocalReport.ReportEmbeddedResource = "Общежитие.Report1.rdlc";
-            this.reportViewer1.Location = new System.Drawing.Point(-1, -1);
+            this.reportViewer1.Location = new System.Drawing.Point(0, 0);
             this.reportViewer1.Name = "reportViewer1";
             this.reportViewer1.ServerReport.BearerToken = null;
-            this.reportViewer1.Size = new System.Drawing.Size(985, 514);
+            this.reportViewer1.Size = new System.Drawing.Size(985, 552);
             this.reportViewer1.TabIndex = 0;
             // 
             // StudentsTableAdapter
@@ -71,7 +72,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(985, 512);
+            this.ClientSize = new System.Drawing.Size(985, 552);
             this.Controls.Add(this.reportViewer1);
             this.Name = "Otchet";
             this.Text = "Отчет";
