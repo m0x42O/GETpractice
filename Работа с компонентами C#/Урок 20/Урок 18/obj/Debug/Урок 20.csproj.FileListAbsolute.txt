@@ -1,0 +1,10 @@
+C:\Projects\Уроки\Урок 20\Урок 18\bin\Debug\Урок 18.exe.config
+C:\Projects\Уроки\Урок 20\Урок 18\bin\Debug\Урок 18.exe
+C:\Projects\Уроки\Урок 20\Урок 18\bin\Debug\Урок 18.pdb
+C:\Projects\Уроки\Урок 20\Урок 18\obj\Debug\Урок 20.csprojAssemblyReference.cache
+C:\Projects\Уроки\Урок 20\Урок 18\obj\Debug\Урок_18.Form1.resources
+C:\Projects\Уроки\Урок 20\Урок 18\obj\Debug\Урок_18.Properties.Resources.resources
+C:\Projects\Уроки\Урок 20\Урок 18\obj\Debug\Урок 20.csproj.GenerateResource.cache
+C:\Projects\Уроки\Урок 20\Урок 18\obj\Debug\Урок 20.csproj.CoreCompileInputs.cache
+C:\Projects\Уроки\Урок 20\Урок 18\obj\Debug\Урок 18.exe
+C:\Projects\Уроки\Урок 20\Урок 18\obj\Debug\Урок 18.pdb
